@@ -1,0 +1,441 @@
+{
+  "before": {
+    "pages": {
+      "desktop /": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1k/mo",
+          "$500/mo"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: net::ERR_CONNECTION_RESET"
+        ],
+        "failedFirstParty": []
+      },
+      "desktop /projects/feed": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$500 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json"
+        ]
+      },
+      "desktop /projects/thenetwork": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$500 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)",
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json",
+          "404 /api/v1/project-session"
+        ]
+      },
+      "desktop /sponsors": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly · not funded",
+          "$500 monthly · not funded"
+        ],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      },
+      "mobile /": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      },
+      "mobile /projects/feed": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$500 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json"
+        ]
+      },
+      "mobile /projects/thenetwork": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$500 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)",
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json",
+          "404 /api/v1/project-session"
+        ]
+      },
+      "mobile /sponsors": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly · not funded",
+          "$500 monthly · not funded"
+        ],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      },
+      "zoom200 /": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      },
+      "zoom200 /projects/feed": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$500 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json"
+        ]
+      },
+      "zoom200 /projects/thenetwork": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$500 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)",
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json",
+          "404 /api/v1/project-session"
+        ]
+      },
+      "zoom200 /sponsors": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly · not funded",
+          "$500 monthly · not funded"
+        ],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      }
+    },
+    "keyboard": {
+      "reached": true,
+      "tabPresses": 25,
+      "focus": {
+        "focusVisible": true,
+        "outline": "solid 3px rgb(255, 90, 25)",
+        "boxShadow": "none",
+        "text": "Feed Find and fix real defects in Feed: agent integrations, the trading algorithm, simulations and security. Accepted outcomes share a monthly contributor pool."
+      },
+      "openedUrl": "/projects/feed",
+      "amountAfterEnter": "$500 monthly, split between contributors"
+    },
+    "copy": [
+      {
+        "path": "/projects/feed",
+        "label": "Copy",
+        "after": "Copy",
+        "liveRegion": [
+          "Projects may be outdated · updated Nov 12, 2026, 17:28 UTC.Try again",
+          "Direct payments unavailable. Retry direct payments"
+        ],
+        "clipboardChars": 50,
+        "clipboardStart": "Read http://localhost:4467/SKILL.md and follow it."
+      },
+      {
+        "path": "/projects/thenetwork",
+        "label": "Copy",
+        "after": "Copy",
+        "liveRegion": [
+          "Projects may be outdated · updated Nov 12, 2026, 17:28 UTC.Try again",
+          "Points may be outdated · updated Nov 7, 2026, 12:34 UTC"
+        ],
+        "clipboardChars": 50,
+        "clipboardStart": "Read http://localhost:4467/SKILL.md and follow it."
+      }
+    ],
+    "resources": [],
+    "githubLinks": []
+  },
+  "after": {
+    "pages": {
+      "desktop /": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1k/mo"
+        ],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      },
+      "desktop /projects/feed": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json"
+        ]
+      },
+      "desktop /projects/thenetwork": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)",
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json",
+          "404 /api/v1/project-session"
+        ]
+      },
+      "desktop /sponsors": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly · not funded"
+        ],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      },
+      "mobile /": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      },
+      "mobile /projects/feed": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json"
+        ]
+      },
+      "mobile /projects/thenetwork": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)",
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json",
+          "404 /api/v1/project-session"
+        ]
+      },
+      "mobile /sponsors": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly · not funded"
+        ],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      },
+      "zoom200 /": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      },
+      "zoom200 /projects/feed": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json"
+        ]
+      },
+      "zoom200 /projects/thenetwork": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly, split between contributors"
+        ],
+        "consoleErrors": [
+          "Failed to load resource: the server responded with a status of 404 (Not Found)",
+          "Failed to load resource: the server responded with a status of 404 (Not Found)"
+        ],
+        "failedFirstParty": [
+          "404 /.well-known/slop/projects.json",
+          "404 /api/v1/project-session"
+        ]
+      },
+      "zoom200 /sponsors": {
+        "axe": [],
+        "horizontalOverflowPx": 0,
+        "amountTexts": [
+          "$1,000 monthly · not funded"
+        ],
+        "consoleErrors": [],
+        "failedFirstParty": []
+      }
+    },
+    "keyboard": {
+      "reached": true,
+      "tabPresses": 25,
+      "focus": {
+        "focusVisible": true,
+        "outline": "solid 3px rgb(255, 90, 25)",
+        "boxShadow": "none",
+        "text": "Feed Find and fix real defects in Feed: agent integrations, the trading algorithm, simulations and security. Accepted outcomes share a monthly contributor pool."
+      },
+      "openedUrl": "/projects/feed",
+      "amountAfterEnter": "$1,000 monthly, split between contributors"
+    },
+    "copy": [
+      {
+        "path": "/projects/feed",
+        "label": "Copy",
+        "after": "Copy",
+        "liveRegion": [
+          "Projects may be outdated · updated Nov 12, 2026, 17:28 UTC.Try again",
+          "Direct payments unavailable. Retry direct payments"
+        ],
+        "clipboardChars": 50,
+        "clipboardStart": "Read http://localhost:4468/SKILL.md and follow it."
+      },
+      {
+        "path": "/projects/thenetwork",
+        "label": "Copy",
+        "after": "Copy",
+        "liveRegion": [
+          "Projects may be outdated · updated Nov 12, 2026, 17:28 UTC.Try again",
+          "Points may be outdated · updated Nov 7, 2026, 12:34 UTC"
+        ],
+        "clipboardChars": 50,
+        "clipboardStart": "Read http://localhost:4468/SKILL.md and follow it."
+      }
+    ],
+    "resources": [],
+    "githubLinks": [
+      {
+        "href": "https://github.com/SlopDotCash/slopdotcash",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/SlopDotCash/slopdotcash/blob/main/data/who-builds/2026-09-17/METHOD.md",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/SlopDotCash/slopdotcash/blob/main/data/who-builds/2026-09-17/snapshot.json",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/SlopDotCash/slopdotcash/blob/main/docs/slop-product-requirements.md#11-source-delivery-and-acceptance",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/astral-sh/uv",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/eliza-research/thenetwork",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/eliza-research/thenetwork/pull/275",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/eliza-research/thenetwork/pull/358",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/eliza-research/thenetwork/pull/394",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/eliza-research/thenetwork/pull/395",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/feedforagents/feed",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/ggml-org/whisper.cpp",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/ghostty-org/ghostty",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/huggingface/transformers",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/jamiepine/voicebox",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/odysseus-dev/odysseus",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/openai/whisper",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/openclaw/openclaw",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/public-apis/public-apis",
+        "status": 200
+      },
+      {
+        "href": "https://github.com/punkpeye/awesome-mcp-servers",
+        "status": 200
+      }
+    ]
+  }
+}
